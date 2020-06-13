@@ -1,5 +1,7 @@
+--
 layout: page
 title: "PAGE TITLE"
-permalink: /about
+permalink: /about/
+--
 
-## About me
+<h1>Hello</h1>
