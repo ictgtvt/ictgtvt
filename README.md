@@ -1,1 +1,4 @@
-# nguyen-notes
+## How ?
+```bash
+bundle exec jekyll serve
+```
